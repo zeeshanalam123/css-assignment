@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+.main{
+    text-align: center;
+    
+  background-color: rgb(225, 165, 165);
+  animation-name: example;
+  animation-duration: 4s
+     }
+     @keyframes example {
+        0%   {background-color: red;}
+        25%  {background-color: rgb(98, 98, 62);}
+        50%  {background-color: rgb(231, 126, 227);}
+        100% {background-color: rgb(115, 199, 115);}
+      }
+      
+      
+
+.h1{
+    font-family: serif;    
+    font-size: 40px;
+    text-shadow: 2px 2px red;
+}
+.a{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.b{
+    font-size: 28px;
+    font-family: fangsong;
+}
+.c{
+    font-size: 26px;
+    font-family: monospace;
+}  
+.d{
+    font-size: 24px;
+    font-family: cursive;
+}   
+.e{
+    font-size: 22px;
+    font-family: fantasy;
+}
+.f{
+    font-size: 20px;
+    font-family: system-ui;
+}
+.g{
+    font-size: 18px;
+    font-family: ui-serif;
+}
+.h{
+    font-size: 16px;
+    font-family: ui-sans-serif;
+}
+.i{
+    font-size: 14px;
+    font-family: ui-monospace;
+}
+.j{
+    font-size: 12px;
+    font-family: ui-rounded;
+}
+.k{
+    font-size: 10px;
+}
+.l{
+    font-size: 08px;
+}
+.m{
+    font-size: 06px;
+}
+
